@@ -32,7 +32,7 @@ Chrome extension files (.crx) are zipfiles with an [extra header](http://www.ada
 ## Installation
 
 ```bash
-$ npm install unzipper
+$ npm install @deranged/unzipper
 ```
 
 ## Quick Examples
